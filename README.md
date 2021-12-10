@@ -1,2 +1,2 @@
 # Matrix-Virus
-This is a fake matrix virus. Windows Batch file
+This is a fake matrix virus coded for fun in Windows Batch file.
